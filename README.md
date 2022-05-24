@@ -23,21 +23,21 @@ I'm João Pedro de Bragança!
 
 ### Tools I like to use
 
-<img align="left" alt="Python" height="40" width="40" src="https://static.cdnlogo.com/logos/p/3/python.svg" />
-<img align="left" alt="GCP" height="40" width="40" src="https://static.cdnlogo.com/logos/g/75/google-cloud.svg" />
-<img align="left" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
-<img align="left" alt="Streamlit" height="40" width="40" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" />
-<img align="left" alt="TensorFlow" height="40" width="40"src="https://static.cdnlogo.com/logos/t/82/tensorflow.svg" />
-<img align="left" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-<img align="left" alt="NumPy" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" />
-<img align="left" alt="Linux" height="40" width="40" src="https://static.cdnlogo.com/logos/l/21/linux-tux.svg" />
-<img align="left" alt="VS Code" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-<img align="left" alt="Scikit-learn" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img align="left" alt="Seaborn" height="40" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-<img align="left" alt="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt="Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="FastAPI" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
+<img align="left" alt="Python" height="30" width="30" src="https://static.cdnlogo.com/logos/p/3/python.svg" />
+<img align="left" alt="GCP" height="30" width="30" src="https://static.cdnlogo.com/logos/g/75/google-cloud.svg" />
+<img align="left" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
+<img align="left" alt="Streamlit" height="30" width="30" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" />
+<img align="left" alt="TensorFlow" height="30" width="30"src="https://static.cdnlogo.com/logos/t/82/tensorflow.svg" />
+<img align="left" alt="Docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="Pandas" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
+<img align="left" alt="NumPy" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" />
+<img align="left" alt="Linux" height="30" width="30" src="https://static.cdnlogo.com/logos/l/21/linux-tux.svg" />
+<img align="left" alt="VS Code" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+<img align="left" alt="Scikit-learn" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="left" alt="Seaborn" height="30" width="30" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+<img align="left" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="left" alt="Git" height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="FastAPI" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
 
 <br />
 <br />
