@@ -3,7 +3,10 @@
 </div>
 
 <div align="center" width="50">
+<img src="https://github.com/JPedroBraganca/JPedroBraganca/blob/main/gifs/lion.gif" alt="Welcome!" width="480"/>
+</div>
 
+<div align="center" width="50">
 <img src="https://github.com/JPedroBraganca/JPedroBraganca/blob/main/gifs/github_jp.gif" alt="Welcome!" width="480"/>
 
 </div>
