@@ -1,5 +1,5 @@
 <div align="center">
-<h1> <tt>> Hello, world!</tt> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> <tt>> Hello, world!</tt> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40"></h1>
 </div>
 
 <div align="center" width="50">
