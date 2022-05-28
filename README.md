@@ -71,15 +71,13 @@ Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="c
 
 <div align="center">
 
-### <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/buymeacoffee.svg" /> 𝙱𝚞𝚢 𝚖𝚎 𝚊 𝚌𝚘𝚏𝚏𝚎𝚎
-<br />
+### <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/buymeacoffee.svg" /> 𝙱𝚞𝚢 𝚖𝚎 𝚊 𝚌𝚘𝚏𝚏𝚎𝚎
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JPedroBraganca)
+  
+<br />
+  
+### 🤣 𝚁𝚊𝚗𝚍𝚘𝚖 𝚍𝚎𝚟 𝚓𝚘𝚔𝚎 𝚏𝚘𝚛 𝚢𝚘𝚞!
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 </div>
-
-<!--
-
-
-**JPedroBraganca/JPedroBraganca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io//my-stack)
