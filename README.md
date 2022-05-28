@@ -92,3 +92,7 @@ Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="c
 
 ---
 </div>
+
+<div align="center" width="50">
+<img src="https://github.com/JPedroBraganca/JPedroBraganca/blob/main/gifs/folks.gif" width="480"/>
+</div>
