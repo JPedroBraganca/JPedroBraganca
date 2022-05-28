@@ -25,21 +25,21 @@ Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="c
 
 ### 🔧 𝚃𝚘𝚘𝚕𝚜 𝙸 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚞𝚜𝚎
 
-<img align="center" alt="Python" height="30" width="30" src="https://static.cdnlogo.com/logos/p/3/python.svg" />
-<img align="center" alt="GCP" height="30" width="30" src="https://static.cdnlogo.com/logos/g/75/google-cloud.svg" />
-<img align="center" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
-<img align="center" alt="Streamlit" height="30" width="30" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" />
-<img align="center" alt="TensorFlow" height="30" width="30"src="https://static.cdnlogo.com/logos/t/82/tensorflow.svg" />
-<img align="center" alt="Docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-<img align="center" alt="Pandas" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-<img align="center" alt="NumPy" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" />
-<img align="center" alt="Linux" height="30" width="30" src="https://static.cdnlogo.com/logos/l/21/linux-tux.svg" />
-<img align="center" alt="VS Code" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-<img align="center" alt="Scikit-learn" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img align="center" alt="Seaborn" height="30" width="30" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-<img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="center" alt="Git" height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="center" alt="FastAPI" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
+<img align="center" alt="Python" height="40" width="40" src="https://static.cdnlogo.com/logos/p/3/python.svg" />
+<img align="center" alt="GCP" height="40" width="40" src="https://static.cdnlogo.com/logos/g/75/google-cloud.svg" />
+<img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
+<img align="center" alt="Streamlit" height="40" width="40" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" />
+<img align="center" alt="TensorFlow" height="40" width="40"src="https://static.cdnlogo.com/logos/t/82/tensorflow.svg" />
+<img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+<img align="center" alt="Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
+<img align="center" alt="NumPy" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" />
+<img align="center" alt="Linux" height="40" width="40" src="https://static.cdnlogo.com/logos/l/21/linux-tux.svg" />
+<img align="center" alt="VS Code" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+<img align="center" alt="Scikit-learn" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="center" alt="Seaborn" height="40" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+<img align="center" alt="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="center" alt="Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="center" alt="FastAPI" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
 
 <br />
 </div>
