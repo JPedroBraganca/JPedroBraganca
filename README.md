@@ -8,6 +8,7 @@
 
 </div>
 <br />
+<br />
 
 <div align="center">
 
@@ -18,6 +19,7 @@ Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="c
 [![Medium](https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@joaopedrodebraganca)
   
 </div>
+<br />
 
 <div align="center">
 
@@ -41,6 +43,7 @@ Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="c
 
 <br />
 </div>
+<br />
 <br />
 
 <div align="center">
