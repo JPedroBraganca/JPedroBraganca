@@ -1,58 +1,63 @@
-### Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="30">
+<div align="center">
+<h2> 🅷🅴🆈 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
-<!--
-**JPedroBraganca/JPedroBraganca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" width="50">
 
-Here are some ideas to get you started:
+<img src="https://github.com/JPedroBraganca/JPedroBraganca/blob/main/gifs/github_jp.gif" alt="Welcome!" width="480"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<br />
+
+<div align="center">
 
 I'm João Pedro de Bragança!
 
-- Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="center" height="50" width="50" src="https://avatars.githubusercontent.com/u/43240208?s=200&v=4">
+Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="center" height="50" width="50" src="https://avatars.githubusercontent.com/u/43240208?s=200&v=4">
 
 [![Medium](https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@joaopedrodebraganca)
+  
+</div>
 
-### Tools I like to use
+<div align="center">
 
-<img align="left" alt="Python" height="30" width="30" src="https://static.cdnlogo.com/logos/p/3/python.svg" />
-<img align="left" alt="GCP" height="30" width="30" src="https://static.cdnlogo.com/logos/g/75/google-cloud.svg" />
-<img align="left" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
-<img align="left" alt="Streamlit" height="30" width="30" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" />
-<img align="left" alt="TensorFlow" height="30" width="30"src="https://static.cdnlogo.com/logos/t/82/tensorflow.svg" />
-<img align="left" alt="Docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Pandas" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-<img align="left" alt="NumPy" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" />
-<img align="left" alt="Linux" height="30" width="30" src="https://static.cdnlogo.com/logos/l/21/linux-tux.svg" />
-<img align="left" alt="VS Code" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-<img align="left" alt="Scikit-learn" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img align="left" alt="Seaborn" height="30" width="30" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-<img align="left" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt="Git" height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="FastAPI" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
+### 🔧 𝚃𝚘𝚘𝚕𝚜 𝙸 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚞𝚜𝚎
+
+<img align="center" alt="Python" height="30" width="30" src="https://static.cdnlogo.com/logos/p/3/python.svg" />
+<img align="center" alt="GCP" height="30" width="30" src="https://static.cdnlogo.com/logos/g/75/google-cloud.svg" />
+<img align="center" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
+<img align="center" alt="Streamlit" height="30" width="30" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" />
+<img align="center" alt="TensorFlow" height="30" width="30"src="https://static.cdnlogo.com/logos/t/82/tensorflow.svg" />
+<img align="center" alt="Docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+<img align="center" alt="Pandas" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
+<img align="center" alt="NumPy" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" />
+<img align="center" alt="Linux" height="30" width="30" src="https://static.cdnlogo.com/logos/l/21/linux-tux.svg" />
+<img align="center" alt="VS Code" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+<img align="center" alt="Scikit-learn" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="center" alt="Seaborn" height="30" width="30" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+<img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="center" alt="Git" height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="center" alt="FastAPI" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
 
 <br />
+</div>
 <br />
 
----
+<div align="center">
+
+### 📕 𝙻𝚊𝚝𝚎𝚜𝚝 𝙱𝚕𝚘𝚐 𝙿𝚘𝚜𝚝𝚜
+
+  
+   [Practical Transfer Learning with TensorFlow](https://medium.com/@joaopedrodebraganca/practical-transfer-learning-with-tensorflow-1f16bb9ac379)
 
 
-### 📕 Latest Blog Posts
-- [Practical Transfer Learning with TensorFlow](https://medium.com/@joaopedrodebraganca/practical-transfer-learning-with-tensorflow-1f16bb9ac379)
 
+</div>
+<br />
 
+<div align="center">
 
----
-
-### ⭐ My GitHub Stats
+### ⭐ 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
 <p align="center">
 <a href="https://github.com/JPedroBraganca">
@@ -61,14 +66,17 @@ I'm João Pedro de Bragança!
 </a>
 </p>
 
----
+</div>
+<br />
 
-### <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/buymeacoffee.svg" /> Buy me a coffee
+<div align="center">
+
+### <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/buymeacoffee.svg" /> 𝙱𝚞𝚢 𝚖𝚎 𝚊 𝚌𝚘𝚏𝚏𝚎𝚎
 <br />
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JPedroBraganca)
 
-
+</div>
 
 <!--
 
