@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="30">
 
 <!--
 **JPedroBraganca/JPedroBraganca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm João Pedro de Bragança!
 
-- Working as a Data Scientist at [Falconi](https://www.falconi.com/)   <img height="20" src="https://avatars.githubusercontent.com/u/43240208?s=200&v=4">
+- Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="center" height="50" width="50" src="https://avatars.githubusercontent.com/u/43240208?s=200&v=4">
 
 [![Medium](https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@joaopedrodebraganca)
 
