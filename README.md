@@ -44,8 +44,9 @@ Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="c
 <img align="center" alt="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="center" alt="Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="center" alt="FastAPI" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
+<img align="center" alt="Jupyter" height="40" width="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
 
-<br />
+  <br />
 </div>
 
 <br />
