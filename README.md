@@ -45,8 +45,8 @@ Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="c
 <br />
 </div>
 
----
-
+<br />
+<br />
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="c
 
 </div>
 
----
+<br />
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="c
 
 </div>
 
----
+<br />
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="c
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JPedroBraganca)
 
----
+<br />
   
 ### 🤣 𝚁𝚊𝚗𝚍𝚘𝚖 𝚍𝚎𝚟 𝚓𝚘𝚔𝚎 𝚏𝚘𝚛 𝚢𝚘𝚞!
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
