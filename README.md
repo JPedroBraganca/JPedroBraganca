@@ -34,6 +34,7 @@ Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="c
 <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
 <img align="center" alt="Streamlit" height="40" width="40" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" />
 <img align="center" alt="TensorFlow" height="40" width="40"src="https://static.cdnlogo.com/logos/t/82/tensorflow.svg" />
+  <img align="center" alt="Keras" height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
 <img align="center" alt="Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
 <img align="center" alt="NumPy" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" />
