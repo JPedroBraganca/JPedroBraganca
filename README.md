@@ -58,7 +58,9 @@ Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="c
 ### 📕 𝙻𝚊𝚝𝚎𝚜𝚝 𝙱𝚕𝚘𝚐 𝙿𝚘𝚜𝚝𝚜
 
   
-   [Practical Transfer Learning with TensorFlow](https://medium.com/@joaopedrodebraganca/practical-transfer-learning-with-tensorflow-1f16bb9ac379)
+   [Operationalizing a TensorFlow model (with FastAPI, Docker and GCP)](https://medium.com/mlearning-ai/operationalizing-a-tensorflow-model-with-fastapi-docker-and-gcp-9c6a81ccc361)
+  
+   [Practical Transfer Learning with TensorFlow](https://medium.com/mlearning-ai/practical-transfer-learning-with-tensorflow-1f16bb9ac379)
 
 
 
