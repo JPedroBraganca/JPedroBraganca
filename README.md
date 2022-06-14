@@ -20,6 +20,7 @@ I'm João Pedro de Bragança!
 Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="center" height="50" width="50" src="https://avatars.githubusercontent.com/u/43240208?s=200&v=4">
 
 [![Medium](https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@joaopedrodebraganca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-de-braganca)
   
 </div>
 
