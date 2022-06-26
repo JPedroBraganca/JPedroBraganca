@@ -15,9 +15,12 @@
 
 <div align="center">
 
-I'm João Pedro de Bragança!
+I'm João Pedro!
 
 Working as a Data Scientist at [Falconi](https://www.falconi.com/) <img align="center" height="50" width="50" src="https://avatars.githubusercontent.com/u/43240208?s=200&v=4">
+
+  
+Google Cloud Certified - [Professional Data Engineer](https://www.credential.net/bef7dd20-81d5-4200-8d79-6585f9571609) <img align="center" height="100" width="100" src="https://images.credential.net/badge/tiny/m1c4n5hc_1656212314614_badge.png">
 
 [![Medium](https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@joaopedrodebraganca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-de-braganca)
