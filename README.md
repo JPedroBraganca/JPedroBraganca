@@ -50,6 +50,7 @@ Google Cloud Certified - [Professional Data Engineer](https://www.credential.net
 <img align="center" alt="Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="center" alt="FastAPI" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
 <img align="center" alt="Jupyter" height="40" width="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
+<img align="center" alt="Google Colab" height="40" width="40" src="https://static.wikia.nocookie.net/logopedia/images/6/63/Colab_favicon_256px.png/revision/latest?cb=20201019224542" />
 
   <br />
 </div>
