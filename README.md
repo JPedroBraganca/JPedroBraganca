@@ -17,7 +17,7 @@
 
 I'm João Pedro!
 
-Partner & CDO, Head of Data Science at [Innovation Intelligence](https://www.innovationintelligence.ai) <img align="center" height="100" width="200" src="https://www.innovationintelligence.ai/assets/png/seo-image.png">
+Partner, Chief Data Officer and Head of Data Science at [Innovation Intelligence](https://www.innovationintelligence.ai) <img align="center" height="100" width="200" src="https://www.innovationintelligence.ai/assets/png/seo-image.png">
 
 Google Cloud Certified - [Professional Machine Learning Engineer](https://www.credential.net/8c0d27b4-c066-4cf8-ba16-0fab1fcf4f6c) <img align="center" height="100" width="100" src="https://images.credential.net/badge/tiny/cdpjnube_1657994287228_badge.png">
   
