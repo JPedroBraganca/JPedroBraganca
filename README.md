@@ -68,7 +68,10 @@ Google Cloud Certified - [Professional Data Engineer](https://www.credential.net
 <img align="center" alt="LATEX" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />
 <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 <img align="center" alt="OpenCV" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" />
-<img align="center" alt="Selenium" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" />
+<img align="center" alt="Selenium" height="40" width="40" src="https://iconape.com/wp-content/files/yd/371438/svg/371438.svg" />
+<img align="center" alt="Notion" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" />
+<img align="center" alt="Anaconda" height="40" width="40" src="https://prod-backend-company-uploads-transcend-io.s3.amazonaws.com/8d6dc27b-6eef-4afc-8e75-1e1ac922e35f/e8d51866-cab8-4ea9-9ab7-b72dea449a4f" />
+<img align="center" alt="Stack Overflow" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />
 
 <br />
 <br />
