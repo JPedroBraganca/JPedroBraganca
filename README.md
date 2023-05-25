@@ -39,7 +39,7 @@ Google Cloud Certified - [Professional Data Engineer](https://www.credential.net
 <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
 <img align="center" alt="Streamlit" height="40" width="40" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" />
 <img align="center" alt="TensorFlow" height="40" width="40"src="https://static.cdnlogo.com/logos/t/82/tensorflow.svg" />
-  <img align="center" alt="Keras" height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+<img align="center" alt="Keras" height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
 <img align="center" alt="Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
 <img align="center" alt="NumPy" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" />
@@ -53,8 +53,22 @@ Google Cloud Certified - [Professional Data Engineer](https://www.credential.net
 <img align="center" alt="Jupyter" height="40" width="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
 <img align="center" alt="Google Colab" height="40" width="40" src="https://static.wikia.nocookie.net/logopedia/images/6/63/Colab_favicon_256px.png/revision/latest?cb=20201019224542" />
 
-  <br />
-</div>
+<br />
+<br />
+<img align="center" alt="Kubeflow" height="40" width="40" src="https://upload.vectorlogo.zone/logos/kubeflow/images/64a240da-6dce-4dea-a457-99ee3035ebe8.svg" />
+<img align="center" alt="Slack" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" />
+<img align="center" alt="Google AI" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/google-ai-1.svg" />
+<img align="center" alt="AWS" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
+<img align="center" alt="DBeaver" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" />
+<img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
+<img align="center" alt="Polars" height="40" width="40" src="https://raw.githubusercontent.com/carnarez/polars-static/master/logos/polars-logo-dimmed.svg" />
+<img align="center" alt="Obsidian" height="40" width="40" src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/drivers/webextension/images/icons/Obsidian%20Publish.svg" />
+<img align="center" alt="Brave" height="40" width="40" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" />
+<img align="center" alt="Canva" height="40" width="40" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" />
+<img align="center" alt="LATEX" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />
+<img align="center" alt="MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+<img align="center" alt="OpenCV" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" />
+<img align="center" alt="Selenium" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" />
 
 <br />
 <br />
