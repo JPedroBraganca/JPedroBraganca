@@ -61,8 +61,8 @@ Google Cloud Certified - [Professional Data Engineer](https://www.credential.net
 <img align="center" alt="AWS" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
 <img align="center" alt="DBeaver" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" />
 <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
-<img align="center" alt="Polars" height="40" width="40" src="https://raw.githubusercontent.com/carnarez/polars-static/master/logos/polars-logo-dimmed.svg" />
-<img align="center" alt="Obsidian" height="40" width="40" src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/drivers/webextension/images/icons/Obsidian%20Publish.svg" />
+<img align="center" alt="Polars" height="40" width="40" src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark-medium.png" />
+<img align="center" alt="Obsidian" height="40" width="40" src="https://pbs.twimg.com/profile_images/1664288689147777030/zFbL2mvj_400x400.jpg" />
 <img align="center" alt="Brave" height="40" width="40" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" />
 <img align="center" alt="Canva" height="40" width="40" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" />
 <img align="center" alt="LATEX" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />
@@ -73,6 +73,19 @@ Google Cloud Certified - [Professional Data Engineer](https://www.credential.net
 <img align="center" alt="Anaconda" height="40" width="40" src="https://prod-backend-company-uploads-transcend-io.s3.amazonaws.com/8d6dc27b-6eef-4afc-8e75-1e1ac922e35f/e8d51866-cab8-4ea9-9ab7-b72dea449a4f" />
 <img align="center" alt="Stack Overflow" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />
 <img align="center" alt="PyTorch" height="40" width="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+
+<br />
+<br />
+<img align="center" alt="Hugging Face" height="40" width="40" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
+<img align="center" alt="LangChain" height="40" width="40" src="https://styles.redditmedia.com/t5_7tpn6r/styles/communityIcon_vw08a423ptxa1.png" />
+<img align="center" alt="OpenAI" height="40" width="40" src="https://www.svgrepo.com/show/306500/openai.svg" />
+<img align="center" alt="Gemini" height="40" width="40" src="https://seeklogo.com/images/G/google-gemini-logo-A5787B2669-seeklogo.com.png" />
+<img align="center" alt="Pinecone" height="40" width="40" src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" />
+<img align="center" alt="Chroma DB" height="40" width="40" src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" />
+<img align="center" alt="Azure OpenAI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" />
+<img align="center" alt="Nvidia" height="40" width="40" src="https://www.logo.wine/a/logo/Nvidia/Nvidia-Light-Vertical-Dark-Background-Logo.wine.svg" />
+<img align="center" alt="Gradio" height="40" width="40" src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" />
+<img align="center" alt="Meta AI" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/meta-1.svg" />
 
 <br />
 <br />
