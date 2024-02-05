@@ -86,6 +86,9 @@ Google Cloud Certified - [Professional Data Engineer](https://www.credential.net
 <img align="center" alt="Nvidia" height="40" width="40" src="https://www.logo.wine/a/logo/Nvidia/Nvidia-Light-Vertical-Dark-Background-Logo.wine.svg" />
 <img align="center" alt="Gradio" height="40" width="40" src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" />
 <img align="center" alt="Meta AI" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/meta-1.svg" />
+<img align="center" alt="Mage AI" height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgithub.com%2Fmage-ai.png" />
+<img align="center" alt="Plotly" height="40" width="40" src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" />
+
 
 <br />
 <br />
