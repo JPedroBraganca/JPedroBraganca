@@ -61,7 +61,7 @@ Google Cloud Certified - [Professional Data Engineer](https://www.credential.net
 <img align="center" alt="AWS" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
 <img align="center" alt="DBeaver" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" />
 <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
-<img align="center" alt="Polars" height="40" width="40" src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark-medium.png" />
+<img align="center" alt="Polars" height="40" width="80" src="https://pola.rs/share.jpg" />
 <img align="center" alt="Obsidian" height="40" width="40" src="https://pbs.twimg.com/profile_images/1664288689147777030/zFbL2mvj_400x400.jpg" />
 <img align="center" alt="Brave" height="40" width="40" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" />
 <img align="center" alt="Canva" height="40" width="40" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" />
@@ -88,6 +88,8 @@ Google Cloud Certified - [Professional Data Engineer](https://www.credential.net
 <img align="center" alt="Meta AI" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/meta-1.svg" />
 <img align="center" alt="Mage AI" height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgithub.com%2Fmage-ai.png" />
 <img align="center" alt="Plotly" height="40" width="40" src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" />
+<img align="center" alt="Qdrant" height="40" width="40" src="https://seeklogo.com/images/Q/qdrant-icon-logo-843D18553D-seeklogo.com.png" />
+<img align="center" alt="Pydantic" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:400/0*z6bmmmnpqZKLJCtj.jpg" />
 
 
 <br />
