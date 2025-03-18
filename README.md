@@ -129,8 +129,6 @@ Google Cloud Certified - [Professional Data Engineer](https://www.credential.net
 
 </div>
 
-<br />
-
 <div align="center">
 
 <br />
