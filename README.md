@@ -133,10 +133,6 @@ Google Cloud Certified - [Professional Data Engineer](https://www.credential.net
 
 <div align="center">
 
-### <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/buymeacoffee.svg" /> 𝙱𝚞𝚢 𝚖𝚎 𝚊 𝚌𝚘𝚏𝚏𝚎𝚎
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JPedroBraganca)
-
 <br />
   
 ### 🤣 𝚁𝚊𝚗𝚍𝚘𝚖 𝚍𝚎𝚟 𝚓𝚘𝚔𝚎 𝚏𝚘𝚛 𝚢𝚘𝚞!
