@@ -91,7 +91,10 @@ Google Cloud Certified - [Professional Data Engineer](https://www.credential.net
 <img align="center" alt="Qdrant" height="40" width="40" src="https://qdrant.tech/img/brand-resources-logos/logomark.svg" />
 <img align="center" alt="Pydantic" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:400/0*z6bmmmnpqZKLJCtj.jpg" />
 <img align="center" alt="Insomnia" height="40" width="40" src="https://www.svgrepo.com/show/353904/insomnia.svg" />
-
+<img align="center" alt="Anthropic" height="40" width="40" src="https://img.icons8.com/fluent/512/claude.png" />
+<img align="center" alt="Ollama" height="40" width="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/ollama.png" />
+<img align="center" alt="LM Studio" height="40" width="40" src="https://lmstudio.ai/_next/static/media/lmstudio-app-logo.61cb7d80.webp" />
+<img align="center" alt="GitHub Copilot" height="40" width="60" src="https://www.podfeet.com/blog/wp-content/uploads/2021/09/GitHub-Copilot-logo-1040x650.png" />
 
 <br />
 <br />
