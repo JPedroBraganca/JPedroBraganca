@@ -79,17 +79,18 @@ Google Cloud Certified - [Professional Data Engineer](https://www.credential.net
 <img align="center" alt="Hugging Face" height="40" width="40" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
 <img align="center" alt="LangChain" height="40" width="40" src="https://styles.redditmedia.com/t5_7tpn6r/styles/communityIcon_vw08a423ptxa1.png" />
 <img align="center" alt="OpenAI" height="40" width="40" src="https://www.svgrepo.com/show/306500/openai.svg" />
-<img align="center" alt="Gemini" height="40" width="40" src="https://seeklogo.com/images/G/google-gemini-logo-A5787B2669-seeklogo.com.png" />
-<img align="center" alt="Pinecone" height="40" width="40" src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" />
-<img align="center" alt="Chroma DB" height="40" width="40" src="https://seeklogo.com/images/C/chroma-logo-FB287847E7-seeklogo.com.png" />
+<img align="center" alt="Gemini" height="40" width="40" src="https://svgmix.com/uploads/6f9000-google-gemini.svg" />
+<img align="center" alt="Pinecone" height="40" width="40" src="https://svgmix.com/uploads/5a77fe-pinecone-icon.svg" />
+<img align="center" alt="Chroma DB" height="40" width="40" src="https://www.trychroma.com/_next/static/media/chroma.d840f629.png" />
 <img align="center" alt="Azure OpenAI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" />
 <img align="center" alt="Nvidia" height="40" width="40" src="https://www.logo.wine/a/logo/Nvidia/Nvidia-Light-Vertical-Dark-Background-Logo.wine.svg" />
-<img align="center" alt="Gradio" height="40" width="40" src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" />
-<img align="center" alt="Meta AI" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/meta-1.svg" />
+<img align="center" alt="Gradio" height="40" width="40" src="https://avatars.githubusercontent.com/u/51063788?v=4" />
+<img align="center" alt="Meta AI" height="40" width="40" src="https://svgmix.com/uploads/0dd314-meta.svg" />
 <img align="center" alt="Mage AI" height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgithub.com%2Fmage-ai.png" />
 <img align="center" alt="Plotly" height="40" width="40" src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" />
-<img align="center" alt="Qdrant" height="40" width="40" src="https://seeklogo.com/images/Q/qdrant-icon-logo-843D18553D-seeklogo.com.png" />
+<img align="center" alt="Qdrant" height="40" width="40" src="https://qdrant.tech/img/brand-resources-logos/logomark.svg" />
 <img align="center" alt="Pydantic" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:400/0*z6bmmmnpqZKLJCtj.jpg" />
+<img align="center" alt="Insomnia" height="40" width="40" src="https://www.svgrepo.com/show/353904/insomnia.svg" />
 
 
 <br />
