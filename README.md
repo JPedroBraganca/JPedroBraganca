@@ -17,7 +17,9 @@
 
 I'm João Pedro!
 
-Generative AI Tech Lead at [C6 Bank](https://www.c6bank.com.br/) <img align="center" height="200" width="200" src="https://logospng.org/download/c6-bank/logo-c6-bank-1024.png">
+<br />
+
+Specialist Generative AI Engineer at [Amdocs USA](https://www.amdocs.com)
 
 Google Cloud Certified - [Professional Machine Learning Engineer](https://www.credential.net/8c0d27b4-c066-4cf8-ba16-0fab1fcf4f6c) <img align="center" height="100" width="100" src="https://images.credential.net/badge/tiny/cdpjnube_1657994287228_badge.png">
   
